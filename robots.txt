@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://centrasto.github.io/sitemap
+Sitemap: https://centrasto.github.io/app/sitemap
+Sitemap: https://centrasto.github.io/assets/sitemap
+Sitemap: https://centrasto.github.io/css/sitemap
+Sitemap: https://centrasto.github.io/includes/sitemap
+Sitemap: https://centrasto.github.io/item/sitemap
+Sitemap: https://centrasto.github.io/src/sitemap
